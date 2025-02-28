@@ -1,0 +1,1 @@
+# Snapcraft Automation Toolkit
