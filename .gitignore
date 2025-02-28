@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Ignorar archivos de logs
+logs/
+*.log
+
+# Ignorar dependencias instaladas en entorno local
+.env
